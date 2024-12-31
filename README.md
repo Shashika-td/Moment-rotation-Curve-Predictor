@@ -42,7 +42,7 @@ The following libraries are required to run the Python script. Each library can 
    - Download the pre-trained model file `XGB_Model.pkl`.
    - Ensure both files are located in the same directory.
    - Verify that all required libraries are installed as specified in the requirements section.
-   -Run the Application:
+   - Run the Application:
    ```bash
    python Moment_Rotation_Predictor.py
    ```
@@ -51,7 +51,7 @@ The following libraries are required to run the Python script. Each library can 
 
 ## Note:
 
-Please ensure that the input values for each parameter fall within the specified range of application mentioned in the GUI. Inputs outside those ranges may lead to an error message.
+Please ensure that the input values for each parameter fall within the specified range of applications mentioned in the GUI. Inputs outside those ranges may lead to an error message.
 
 ---
 
