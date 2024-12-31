@@ -1,6 +1,6 @@
 # Moment-Rotation Curve Predictor
 
-This Tkinter-based GUI application predicts moment-rotation curves for six-bolt extended endplate stainless steel bolted connections using a pre-trained XGBoost regression model. It also offers SHAP-based explanations to illustrate the influence of input parameters on the predictions.
+This is a Tkinter-based GUI application that predicts moment-rotation curves of six-bolt extended endplate stainless steel bolted connections using a pre-trained XGB model. The application also provides SHAP-based explanations to show the impact of input parameters on the predictions.
 
 ---
 
