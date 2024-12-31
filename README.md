@@ -38,17 +38,11 @@ The following libraries are required to run the Python script. Each library can 
 
 ## Setup Instructions
 
-1. **Download Required Files:**
    - Download the primary script `Moment_Rotation_Predictor.py`.
    - Download the pre-trained model file `XGB_Model.pkl`.
-
-2. **Organise Files:**
    - Ensure both files are located in the same directory.
-
-3. **Install Dependencies:**
    - Verify that all required libraries are installed as specified in the requirements section.
-
-4. **Run the Application:**
+   -Run the Application:
    ```bash
    python Moment_Rotation_Predictor.py
    ```
